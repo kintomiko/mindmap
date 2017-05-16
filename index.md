@@ -15,6 +15,10 @@
                             * NIO
                         + Netty
                             * Vert.X
+                        + Java Thread
+                            * LWP ( light weight process )
+                            * KLT ( kernel-level thread )
+                            * User Thread
                     - IDE
                         + *Intellij*
                         + Eclipse
@@ -65,7 +69,10 @@
                 * SWT
                 * Session 
             + OLTP
-            + OLAP           
+            + OLAP
+            + Http
+                * Http2
+                * Websocket     
         - Software Development
             + Agile
             + Automation Testing
